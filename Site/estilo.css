@@ -1,0 +1,26 @@
+
+body {
+		background-image: linear-gradient(to top, lightBlue, white);
+		text-align: center;
+		border-style: inset;
+		border-color: lightBlue;
+		border-width: 10px;
+	 	font-size: 20px;
+	}
+	.btn {
+	padding: 5px 20px;
+	border-radius: 4px;  
+	text-align: center;
+	font-size: 25px; 
+	background-color: lightBlue;
+	}
+	ul {
+		text-align: left;
+	}
+	p  {
+	    text-align:justify;
+	
+	}
+	table {
+			text-align: center;
+	}
